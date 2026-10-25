@@ -1,4 +1,4 @@
-Hi, I'm Saloni Rajput 👋
+iHi, I'm Saloni Rajput 👋
 
 B.Tech Computer Science Student | Aspiring Software Developer
 
@@ -43,7 +43,7 @@ A frontend development project.
 
 I'm interested in learning, collaborating on projects, and exploring opportunities to grow as a developer.
 
-"GitHub" (https://github.com/salonirajput0098-sudo) · "LinkedIn" (YOUR_LINKEDIN_PROFILE_URL)
+"GitHub" (https://github.com/salonirajput0098-sudo) · "LinkedIn" (https://www.linkedin.com/in/saloni-rajput24)
 
 ---
 
