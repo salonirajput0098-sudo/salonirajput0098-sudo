@@ -1,4 +1,4 @@
-iHi, I'm Saloni Rajput 👋
+Hi, I'm Saloni Rajput 👋
 
 B.Tech Computer Science Student | Aspiring Software Developer
 
